@@ -1,0 +1,72 @@
+{
+  "note": "Editorial stock photographs used for mood only. None shows Morton Pool Solutions, its owner, staff, customers, equipment or completed work.",
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/"
+  },
+  "photos": [
+    {
+      "file": "assets/images/tiled-pool.jpg",
+      "placement": "Hero arch",
+      "source": "Pexels",
+      "photoId": 5834062,
+      "title": "Swimming pool with tiled floor and pure water",
+      "photographer": "Tom Fisk",
+      "page": "https://www.pexels.com/photo/swimming-pool-with-tiled-floor-and-pure-water-5834062/",
+      "originalFile": "https://images.pexels.com/photos/5834062/pexels-photo-5834062.jpeg",
+      "derivation": "Resized to 1400x932 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/tile-steps.jpg",
+      "placement": "Hero inset",
+      "source": "Pexels",
+      "photoId": 10126263,
+      "title": "Blue and Gray Floor Tiles",
+      "photographer": "The Vegan Monster",
+      "page": "https://www.pexels.com/photo/blue-and-gray-floor-tiles-10126263/",
+      "originalFile": "https://images.pexels.com/photos/10126263/pexels-photo-10126263.jpeg",
+      "derivation": "Resized to 800x1067 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/pool-coping.jpg",
+      "placement": "Smaller upgrades section",
+      "source": "Pexels",
+      "photoId": 26859061,
+      "title": "Ladder of Swimming Pool",
+      "photographer": "Ahmet \u00c7\u00d6T\u00dcR",
+      "page": "https://www.pexels.com/photo/ladder-of-swimming-pool-26859061/",
+      "originalFile": "https://images.pexels.com/photos/26859061/pexels-photo-26859061.jpeg",
+      "derivation": "Resized to 1200x800 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/plumeria-tile.jpg",
+      "placement": "Service area section",
+      "source": "Pexels",
+      "photoId": 7303411,
+      "title": "White and Yellow Plumeria Alba Flowers Floating on the Swimming Pool ",
+      "photographer": "Cup of  Couple",
+      "page": "https://www.pexels.com/photo/white-and-yellow-plumeria-alba-flowers-floating-on-the-swimming-pool-7303411/",
+      "originalFile": "https://images.pexels.com/photos/7303411/pexels-photo-7303411.jpeg",
+      "derivation": "Resized to 1200x800 and re-compressed as JPEG. No other edits."
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Instrument Serif",
+      "files": [
+        "assets/fonts/instrument-serif-italic-400.woff2",
+        "assets/fonts/instrument-serif-normal-400.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "family": "Figtree",
+      "files": [
+        "assets/fonts/figtree-normal-400_700.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}
